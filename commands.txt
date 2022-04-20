@@ -1,5 +1,6 @@
-Host + F: Enter full screen mode.
-Host + S: To take a snapshot.
-Host + R: Restart the virtual machine.
-Host + Q: Close the virtual machine.
-Host + Del: It is the same as pressing Ctrl + Alt + Del
+Host + F   => Full screen
+Host + D   => Disk manager
+Host + S   => Snapshot
+Host + R   => Restart
+Host + Q   => Close manu
+Host + Del => Ctrl+Alt+Del
