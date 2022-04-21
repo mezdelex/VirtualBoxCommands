@@ -2,5 +2,5 @@ Host + F   => Full screen
 Host + D   => Disk manager
 Host + S   => Snapshot
 Host + R   => Restart
-Host + Q   => Close manu
+Host + Q   => Close menu
 Host + Del => Ctrl+Alt+Del
